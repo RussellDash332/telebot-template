@@ -133,6 +133,7 @@ heroku create this_is_an_example_application_name
 Next, create a Git repository (if you haven't), commit all the changes and run this command.
 
 ```bash
+heroku scale worker=1
 git push heroku {branch_name}
 ```
 

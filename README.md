@@ -22,7 +22,7 @@ The main functions of the bot lies inside `bot.py`. Feel free to expand further 
 
 This is an important section so that you can code the bot interactions easier. For more information, go to https://core.telegram.org/api/updates.
 
-(To convert from `telegram.update.Update` to a Python dictionary or JSON-looking object, use the `__dict__` attribute)
+(Converted from `telegram.update.Update` to a Python dictionary or JSON-looking object)
 
 #### Private chat
 ```json
